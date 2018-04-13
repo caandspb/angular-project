@@ -1,6 +1,7 @@
 # Angular project
 
 Простой проект на Angular
+Онлайн версия: https://stackblitz.com/github/caandspb/angular-project
 
 ///////////////////////////
 
